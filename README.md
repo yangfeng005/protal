@@ -31,7 +31,7 @@ admin---网站管理端
 
 web---门户网站
 
-![WechatIMG311](images/WechatIMG311.png)
+![WechatIMG311](images/121.png)
 
 ![WechatIMG314](images/WechatIMG314.png)
 
