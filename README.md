@@ -31,17 +31,23 @@ admin---网站管理端
 
 web---门户网站
 
+首页：
+
 ![WechatIMG311](images/121.png)
+
+产品页：
 
 ![WechatIMG314](images/WechatIMG314.png)
 
 ![WechatIMG316](images/WechatIMG316.png)
 
+新闻资讯页：
+
 ![iShot_2023-07-06_14.15.58](images/iShot_2023-07-06_14.15.58.png)
 
 ## 四、演示地址
 
-1. 企业门户：http://www.peakcrest.cn 或者 http://119.29.209.39
+1. 企业门户：http://www.peakcrest.cn
 
 2. 管理后台：http://119.29.209.39:8200  账号：admin，密码：123456
 
