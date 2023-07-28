@@ -47,7 +47,7 @@ web---门户网站
 
 ## 四、演示地址
 
-1. 企业门户：http://www.peakcrest.cn
+1. 企业门户：http://farsailing.com
 
 2. 管理后台：http://119.29.209.39:8200  账号：admin，密码：123456
 
