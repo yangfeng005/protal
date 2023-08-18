@@ -21,7 +21,13 @@
 4. 开发工具：Webstorm
 5. 系统基础环境：Node.js
 
-## 三、目录说明
+## 三、演示地址
+
+1. 企业门户：http://www.farsailing.com
+
+2. 管理后台：http://119.29.209.39:8200  账号：admin，密码：123456
+
+## 四、目录说明
 
 server---后端接口服务
 
@@ -33,23 +39,29 @@ web---门户网站
 
 首页：
 
+![QQ20230818-110834@2x](images/QQ20230818-110834@2x.png)
+
 ![WechatIMG311](images/121.png)
 
 产品页：
 
+![QQ20230818-110834@2x](images/QQ20230818-111343@2x.png)
+
 ![WechatIMG314](images/WechatIMG314.png)
+
+![QQ20230818-110834@2x](images/QQ20230818-111343@2x.png)
 
 ![WechatIMG316](images/WechatIMG316.png)
 
 新闻资讯页：
 
+![QQ20230818-110834@2x](images/QQ20230818-111453@2x.png)
+
 ![iShot_2023-07-06_14.15.58](images/iShot_2023-07-06_14.15.58.png)
 
-## 四、演示地址
+关于我们：
 
-1. 企业门户：http://farsailing.com
-
-2. 管理后台：http://119.29.209.39:8200  账号：admin，密码：123456
+![QQ20230818-111229@2x](images/QQ20230818-111229@2x.png)
 
 ## 五、如何本地运行
 
